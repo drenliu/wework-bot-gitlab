@@ -1,0 +1,12 @@
+corpwechatbot:
+  bot_id1:
+    101: #project_id in gitlab
+      name: PorjectName
+      maintainer:
+        - maintainer@company.com # maintainer email
+    
+  bot_id2:
+    201: #project_id in gitlab
+      name: PorjectName
+      maintainer:
+        - maintainer@company.com # maintainer email
